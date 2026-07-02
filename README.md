@@ -1,7 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Ahmed+Ghaffar;Data+Science+Undergrad+%40+FAST-NUCES;ML+%7C+Automation+%7C+Predictive+Modeling" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:11998e&height=220&section=header&text=Ahmed%20Ghaffar&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Data%20Science%20Undergraduate%20@%20FAST-NUCES%20%7C%20ML%20%7C%20Automation%20%7C%20Predictive%20Modeling&descSize=16&descAlign=50&descAlignY=58" width="100%" />
 
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39D353&center=true&vCenter=true&width=480&lines=Exploring+ML+%26+Predictive+Modeling;Automating+workflows+with+Python;Building+data+pipelines+that+don't+break" alt="Typing SVG" />
 </div>
 
 <br>
@@ -56,21 +62,41 @@ Retrieval-augmented pipeline benchmarking sequential vs. parallel embedding gene
 
 ## Tech stack
 
-**Languages**
+<div align="center">
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,python,r&theme=dark" height="50" />
+
+<br><br>
 
 **Data science & ML**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" height="50" />
+<br>
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" />
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<br><br>
 
 **Backend & tools**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,postman&theme=dark" height="50" />
+<br>
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" />
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<br><br>
 
 **Design**
+<br>
+<img src="https://skillicons.dev/icons?i=figma,sass,ai,ps,ae&theme=dark" height="50" />
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+</div>
 
 <br>
 
@@ -78,14 +104,16 @@ Retrieval-augmented pipeline benchmarking sequential vs. parallel embedding gene
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedrana603&theme=dark&hide_border=true&count_private=false&include_all_commits=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrana603&theme=dark&hide_border=true&layout=compact&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedrana603&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrana603&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&layout=compact" />
 
 <br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=ahmedrana603&theme=dark&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ahmedrana603&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 
 </div>
+
+<sub>If a card above ever shows blank: these run on free shared Vercel instances that occasionally cold-start or rate-limit. A hard refresh usually fixes it — if it persists, it's worth deploying your own copy of the API (both projects are open-source and one-click deployable to Vercel).</sub>
 
 <br>
 
@@ -93,7 +121,13 @@ Retrieval-augmented pipeline benchmarking sequential vs. parallel embedding gene
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrana603&theme=react-dark&hide_border=true&area=true" />
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/ahmedrana603/ahmedrana603/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<!--END_SECTION:snake-->
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrana603&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353" />
 
 <br><br>
 
@@ -113,4 +147,4 @@ Retrieval-augmented pipeline benchmarking sequential vs. parallel embedding gene
 
 </div>
 
-<!-- Layout by Claude, live widgets by GPRM (https://gprm.itsvg.in) and the open-source services linked above -->
+<!-- Layout by Claude. Live widgets by GPRM, skillicons.dev, capsule-render, and platane/snk. -->
