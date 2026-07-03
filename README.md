@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:11998e&height=230&section=header&text=Ahmed%20Ghaffar&fontSize=44&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Data%20Science%20Undergraduate%20@%20FAST-NUCES&descSize=17&descAlign=50&descAlignY=54&animation=fadeIn" width="100%" />
+<img src="./github-header-banner.png" width="100%" />
 </div>
-
-<h3 align="center">🤖 ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ &nbsp;·&nbsp; ⚡ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ &nbsp;·&nbsp; 📊 ᴘʀᴇᴅɪᴄᴛɪᴠᴇ ᴍᴏᴅᴇʟɪɴɢ</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=39D353&center=true&vCenter=true&width=480&lines=Exploring+ML+%26+predictive+modeling;Automating+workflows+with+Python;Building+data+pipelines+that+don't+break" alt="Typing SVG" />
