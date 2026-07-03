@@ -8,7 +8,7 @@
 
 <br>
 
-## <p align="center">🙋 Aʙᴏᴜᴛ ᴍᴇ</p>
+<h2 align="center">🙋 Aʙᴏᴜᴛ ᴍᴇ</h2>
 
 <p align="left">
 🎓 Data Science undergraduate at <strong>FAST-NUCES</strong>, based in Pakistan. I like turning messy data and repetitive workflows into something that runs itself.
@@ -64,7 +64,7 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 
 ---
 
-## <p align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛs</p>
+<h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛs</h2>
 
 <table width="100%">
 <tr>
@@ -94,7 +94,7 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 
 ---
 
-## <p align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</p>
+<h2 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
 
 <p align="center"><strong style="color:#A855F7;">Languages</strong></p>
 <p align="center">
@@ -127,7 +127,7 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 
 ---
 
-## <p align="center">🏆 Gɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs</p>
+<h2 align="center">🏆 Gɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs</h2>
 
 <p align="center">
 <a href="https://github.com/ahmedrana603">
@@ -135,7 +135,7 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 </a>
 </p>
 
-## <p align="center">📊 Gɪᴛʜᴜʙ sᴛᴀᴛs</p>
+<h2 align="center">📊 Gɪᴛʜᴜʙ sᴛᴀᴛs</h2>
 
 <table width="100%">
 <tr>
@@ -172,7 +172,7 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 
 ---
 
-## <p align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ ᴀᴄᴛɪᴠɪᴛʏ</p>
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ ᴀᴄᴛɪᴠɪᴛʏ</h2>
 
 <div align="center">
 
@@ -186,11 +186,11 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 
 </div>
 
-<sub align="center">⚠️ The snake above only renders after the GitHub Action below has run at least once in your repo — see setup notes.</sub>
+<sub align="center">⚠️ This animates your real contribution calendar once the GitHub Action in <code>.github/workflows/snake.yml</code> has run successfully — check the Actions tab in your repo if it's not showing.</sub>
 
 ---
 
-## <p align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ</p>
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ</h2>
 
 <p align="center">
 <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0d1117&author_color=A855F7&accent_color=ffffff" />
