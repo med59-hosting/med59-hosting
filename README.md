@@ -55,11 +55,11 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 <p align="center">
 <a href="https://linkedin.com/in/ahmed-ghaffar-504018271" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/A855F7" width="42" height="42" alt="LinkedIn" style="margin:0 6px;" /></a>
 <a href="mailto:ghaffarahmed603@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="42" height="42" alt="Email" style="margin:0 6px;" /></a>
-<a href="https://github.com/ahmedrana603" target="_blank"><img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub" style="margin:0 6px;" /></a>
+<a href="https://github.com/med59-hosting" target="_blank"><img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub" style="margin:0 6px;" /></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ahmedrana603&label=Profile%20views&color=A855F7&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=med59-hosting&label=Profile%20views&color=A855F7&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -130,8 +130,8 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 <h2 align="center">🏆 Gɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs</h2>
 
 <p align="center">
-<a href="https://github.com/ahmedrana603">
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedrana603&no-bg=true&no-frame=true&row=1&column=6&title_color=A855F7&icon_color=A855F7&rank_icon=github&margin-w=18" alt="GitHub Trophies" />
+<a href="https://github.com/med59-hosting">
+<img src="https://github-profile-trophy.vercel.app/?username=med59-hosting&no-bg=true&no-frame=true&row=1&column=6&title_color=A855F7&icon_color=A855F7&rank_icon=github&margin-w=18" alt="GitHub Trophies" />
 </a>
 </p>
 
@@ -142,13 +142,13 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 <td width="50%">
 <h3 align="center">Overview</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedrana603&count_private=false&show_icons=true&theme=dark&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=med59-hosting&count_private=false&show_icons=true&theme=dark&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&hide_border=true&rank_icon=github" />
 </p>
 </td>
 <td width="50%">
 <h3 align="center">Streak</h3>
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=ahmedrana603&theme=dark&background=0d1117&hide_border=true&fire=A855F7&ring=A855F7&currStreakLabel=A855F7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=med59-hosting&theme=dark&background=0d1117&hide_border=true&fire=A855F7&ring=A855F7&currStreakLabel=A855F7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 </p>
 </td>
 </tr>
@@ -156,13 +156,13 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 <td width="50%">
 <h3 align="center">Top languages</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrana603&layout=compact&theme=dark&bg_color=0d1117&title_color=A855F7&text_color=ffffff&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=med59-hosting&layout=compact&theme=dark&bg_color=0d1117&title_color=A855F7&text_color=ffffff&hide_border=true" />
 </p>
 </td>
 <td width="50%">
 <h3 align="center">Top contributions</h3>
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=ahmedrana603&limit=4&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=med59-hosting&limit=4&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 </td>
 </tr>
@@ -177,12 +177,12 @@ I'd rather spend three hours automating a ten-minute task than do it by hand onc
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/ahmedrana603/ahmedrana603/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/med59-hosting/med59-hosting/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 <!--END_SECTION:snake-->
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrana603&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=med59-hosting&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true" />
 
 </div>
 
