@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=00D8FF&center=true&vCenter=true&width=480&lines=Exploring+ML+%26+predictive+modeling;Automating+workflows+with+Python;Building+data+pipelines+that+don't+break" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=A855F7&center=true&vCenter=true&width=480&lines=Exploring+ML+%26+predictive+modeling;Automating+workflows+with+Python;Building+data+pipelines+that+don't+break" alt="Typing SVG" />
 </p>
 
 <br>
@@ -11,22 +11,55 @@
 ## <p align="center">🙋 Aʙᴏᴜᴛ ᴍᴇ</p>
 
 <p align="left">
-🎓 Data Science undergraduate at <strong>FAST-NUCES</strong>, based in Pakistan.
+🎓 Data Science undergraduate at <strong>FAST-NUCES</strong>, based in Pakistan. I like turning messy data and repetitive workflows into something that runs itself.
 </p>
 
-- 🤖 Interested in machine learning, AI, and applied predictive modeling
-- ⚡ I enjoy automating workflows and cutting out repetitive manual work
-- 📊 Comfortable across the full data pipeline — from raw data to a deployed model
-- 🌱 Currently deepening my knowledge of deep learning architectures and RAG pipelines
+<details open>
+<summary><strong>🎯 Currently working on</strong></summary>
+<br>
+
+- A dual-branch CNN for deepfake detection (EfficientNet-B4 + XceptionNet)
+- A parallel-embedding RAG pipeline using FAISS and Groq's Llama 3.3 70B
+
+</details>
+
+<details>
+<summary><strong>📚 Currently learning</strong></summary>
+<br>
+
+- Deeper transformer architectures for NLP
+- Production patterns for RAG systems at scale
+
+</details>
+
+<details>
+<summary><strong>💬 Ask me about</strong></summary>
+<br>
+
+- Machine learning & predictive modeling
+- Workflow automation (n8n, scripting, pipelines)
+- Data analysis & cleaning at scale
+
+</details>
+
+<details>
+<summary><strong>⚡ Fun fact</strong></summary>
+<br>
+
+I'd rather spend three hours automating a ten-minute task than do it by hand once. Every time.
+
+</details>
+
+<br>
 
 <p align="center">
-<a href="https://linkedin.com/in/ahmed-ghaffar-504018271" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" style="margin:0 6px;" /></a>
-<a href="mailto:ghaffarahmed603@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email" style="margin:0 6px;" /></a>
+<a href="https://linkedin.com/in/ahmed-ghaffar-504018271" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/A855F7" width="42" height="42" alt="LinkedIn" style="margin:0 6px;" /></a>
+<a href="mailto:ghaffarahmed603@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/A855F7" width="42" height="42" alt="Email" style="margin:0 6px;" /></a>
 <a href="https://github.com/ahmedrana603" target="_blank"><img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub" style="margin:0 6px;" /></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ahmedrana603&label=Profile%20views&color=00D8FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ahmedrana603&label=Profile%20views&color=A855F7&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -35,22 +68,22 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="border-left:3px solid #00D8FF; padding-left:14px;">
+<td width="50%" valign="top" style="border-left:3px solid #A855F7; padding-left:14px;">
 <h3>🕵️ Deepfake Detection (CNN)</h3>
 <p>Dual-branch CNN pipeline for deepfake detection, combining EfficientNet-B4 and XceptionNet, trained on FaceForensics++.</p>
-<img src="https://img.shields.io/badge/Python-00D8FF?style=flat-square&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/PyTorch-00D8FF?style=flat-square&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/EfficientNet--B4-00D8FF?style=flat-square&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/XceptionNet-00D8FF?style=flat-square&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Python-A855F7?style=flat-square&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/PyTorch-A855F7?style=flat-square&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/EfficientNet--B4-A855F7?style=flat-square&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/XceptionNet-A855F7?style=flat-square&logoColor=white" height="20"/>
 <br><br>
 <strong>→ <a href="#">Add repo link here</a></strong>
 </td>
-<td width="50%" valign="top" style="border-left:3px solid #00D8FF; padding-left:14px;">
+<td width="50%" valign="top" style="border-left:3px solid #A855F7; padding-left:14px;">
 <h3>🔎 RAG Pipeline (Parallel Embeddings)</h3>
 <p>Retrieval-augmented pipeline benchmarking sequential vs. parallel embedding generation, using FAISS for vector search and Groq's Llama 3.3 70B for generation.</p>
-<img src="https://img.shields.io/badge/Python-00D8FF?style=flat-square&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/FAISS-00D8FF?style=flat-square&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Groq_API-00D8FF?style=flat-square&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Python-A855F7?style=flat-square&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/FAISS-A855F7?style=flat-square&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Groq_API-A855F7?style=flat-square&logoColor=white" height="20"/>
 <br><br>
 <strong>→ <a href="#">Add repo link here</a></strong>
 </td>
@@ -63,31 +96,31 @@
 
 ## <p align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</p>
 
-<p align="center"><strong style="color:#00D8FF;">Languages</strong></p>
+<p align="center"><strong style="color:#A855F7;">Languages</strong></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,r&theme=dark" height="52" />
 </p>
 
-<p align="center"><strong style="color:#00D8FF;">Data science &amp; ML</strong></p>
+<p align="center"><strong style="color:#A855F7;">Data science &amp; ML</strong></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" height="52" />
 <br><br>
-<img src="https://img.shields.io/badge/NumPy-00D8FF?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-00D8FF?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-00D8FF?style=flat-square&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-00D8FF?style=flat-square&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-00D8FF?style=flat-square&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-A855F7?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-A855F7?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-A855F7?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-A855F7?style=flat-square&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-A855F7?style=flat-square&logo=anaconda&logoColor=white" />
 </p>
 
-<p align="center"><strong style="color:#00D8FF;">Backend &amp; tools</strong></p>
+<p align="center"><strong style="color:#A855F7;">Backend &amp; tools</strong></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,postman&theme=dark" height="52" />
 <br><br>
-<img src="https://img.shields.io/badge/Twilio-00D8FF?style=flat-square&logo=Twilio&logoColor=white" />
-<img src="https://img.shields.io/badge/Trello-00D8FF?style=flat-square&logo=Trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-A855F7?style=flat-square&logo=Twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-A855F7?style=flat-square&logo=Trello&logoColor=white" />
 </p>
 
-<p align="center"><strong style="color:#00D8FF;">Design</strong></p>
+<p align="center"><strong style="color:#A855F7;">Design</strong></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,sass,ai,ps,ae&theme=dark" height="52" />
 </p>
@@ -98,7 +131,7 @@
 
 <p align="center">
 <a href="https://github.com/ahmedrana603">
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedrana603&no-bg=true&no-frame=true&row=1&column=6&title_color=00D8FF&icon_color=00D8FF&rank_icon=github&margin-w=18" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedrana603&no-bg=true&no-frame=true&row=1&column=6&title_color=A855F7&icon_color=A855F7&rank_icon=github&margin-w=18" alt="GitHub Trophies" />
 </a>
 </p>
 
@@ -109,13 +142,13 @@
 <td width="50%">
 <h3 align="center">Overview</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedrana603&count_private=false&show_icons=true&theme=dark&bg_color=0d1117&title_color=00D8FF&icon_color=00D8FF&text_color=ffffff&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedrana603&count_private=false&show_icons=true&theme=dark&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&hide_border=true&rank_icon=github" />
 </p>
 </td>
 <td width="50%">
 <h3 align="center">Streak</h3>
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=ahmedrana603&theme=dark&background=0d1117&hide_border=true&fire=00D8FF&ring=00D8FF&currStreakLabel=00D8FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=ahmedrana603&theme=dark&background=0d1117&hide_border=true&fire=A855F7&ring=A855F7&currStreakLabel=A855F7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 </p>
 </td>
 </tr>
@@ -123,7 +156,7 @@
 <td width="50%">
 <h3 align="center">Top languages</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrana603&layout=compact&theme=dark&bg_color=0d1117&title_color=00D8FF&text_color=ffffff&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrana603&layout=compact&theme=dark&bg_color=0d1117&title_color=A855F7&text_color=ffffff&hide_border=true" />
 </p>
 </td>
 <td width="50%">
@@ -135,7 +168,7 @@
 </tr>
 </table>
 
-<sub>If any card above shows blank: these are free shared Vercel instances that occasionally cold-start — a hard refresh (or waiting ~30 seconds and reloading) usually fixes it.</sub>
+<sub>If any card above shows blank: these run on free shared Vercel instances that occasionally cold-start — a hard refresh (or waiting ~30 seconds and reloading) usually fixes it.</sub>
 
 ---
 
@@ -144,25 +177,27 @@
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/ahmedrana603/ahmedrana603/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/ahmedrana603/ahmedrana603/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 <!--END_SECTION:snake-->
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrana603&bg_color=0d1117&color=00D8FF&line=00D8FF&point=ffffff&area=true&area_color=00D8FF&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrana603&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true" />
 
 </div>
+
+<sub align="center">⚠️ The snake above only renders after the GitHub Action below has run at least once in your repo — see setup notes.</sub>
 
 ---
 
 ## <p align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ ᴅᴀʏ</p>
 
 <p align="center">
-<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0d1117&author_color=00D8FF&accent_color=ffffff" />
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0d1117&author_color=A855F7&accent_color=ffffff" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00D8FF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:A855F7&height=100&section=footer" width="100%" />
 </p>
