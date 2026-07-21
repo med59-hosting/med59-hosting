@@ -16,7 +16,7 @@
   <a href="mailto:ghaffarahmed603@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ahmedrana603&style=for-the-badge&color=44A833&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=med59-hosting&style=for-the-badge&color=44A833&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -83,11 +83,11 @@ I'm a Data Scientist in training who likes making machines learn things faster t
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedrana603/ahmedrana603/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/med59-hosting/med59-hosting/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrana603&theme=react-dark&hide_border=true&area=true" alt="contribution activity graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=med59-hosting&theme=react-dark&hide_border=true&area=true" alt="contribution activity graph" width="100%"/>
 </p>
 
 > ⚙️ This animates your real contribution graph into a snake eating your commit squares.
@@ -98,16 +98,16 @@ I'm a Data Scientist in training who likes making machines learn things faster t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedrana603&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrana603&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=med59-hosting&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=med59-hosting&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahmedrana603&theme=radical&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=med59-hosting&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedrana603&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=med59-hosting&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -115,7 +115,7 @@ I'm a Data Scientist in training who likes making machines learn things faster t
 ## 🏆 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ahmedrana603&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=med59-hosting&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
