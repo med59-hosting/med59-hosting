@@ -1,6 +1,6 @@
-<!-- ================= TOP WAVE BANNER ================= -->
+<!-- ================= TOP BANNER (custom) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:44A833&height=220&section=header&text=Ahmed%20Ghaffar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20ML%20%7C%20Automation&descAlignY=55&descSize=18" width="100%"/>
+  <img src="assets/banner.png" width="100%" alt="Ahmed Ghaffar banner"/>
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
@@ -25,14 +25,25 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
-- 🎓 Data Science Undergraduate at **FAST-NUCES**
-- 🤖 Deep into **Machine Learning & AI**
-- ⚡ Building **process automation & workflow optimization** tools
-- 📊 Love turning messy data into **predictive models & insights**
-- 🌱 Always shipping something new, always learning
-- 📫 Reach me at **ghaffarahmed603@gmail.com**
+I'm a Data Scientist in training who likes making machines learn things faster than I did.
+
+- 🧠 Currently training neural networks and myself, in that order
+- 🎓 Data Science undergrad at **FAST-NUCES**, buried in matrices and deadlines
+- ⚙️ Obsessed with **automating anything that's repeated more than twice**
+- 📈 I build models that predict things, then argue with the model when it's wrong
+- 🛠️ Comfortable stack: Python, PyTorch, scikit-learn, and a lot of coffee
+- 🚀 Currently exploring: process automation pipelines that think for themselves
+- 📫 Let's talk data: **ghaffarahmed603@gmail.com**
 
 <br clear="right"/>
+
+---
+
+## 🧠 Neural Network
+
+<p align="center">
+  <img src="assets/neural-network.svg" width="100%" alt="animated neural network diagram"/>
+</p>
 
 ---
 
@@ -73,7 +84,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmedrana603/ahmedrana603/output/github-contribution-grid-snake.svg" alt="snake animation" />
