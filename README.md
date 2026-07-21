@@ -23,8 +23,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
-
 I'm a Data Scientist in training who likes making machines learn things faster than I did.
 
 - 🧠 Currently training neural networks and myself, in that order
@@ -34,8 +32,6 @@ I'm a Data Scientist in training who likes making machines learn things faster t
 - 🛠️ Comfortable stack: Python, PyTorch, scikit-learn, and a lot of coffee
 - 🚀 Currently exploring: process automation pipelines that think for themselves
 - 📫 Let's talk data: **ghaffarahmed603@gmail.com**
-
-<br clear="right"/>
 
 ---
 
@@ -88,6 +84,10 @@ I'm a Data Scientist in training who likes making machines learn things faster t
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmedrana603/ahmedrana603/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrana603&theme=react-dark&hide_border=true&area=true" alt="contribution activity graph" width="100%"/>
 </p>
 
 > ⚙️ This animates your real contribution graph into a snake eating your commit squares.
