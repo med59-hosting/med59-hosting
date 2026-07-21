@@ -1,0 +1,93 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .edge {
+        stroke: #44A833;
+        stroke-width: 1.4;
+        opacity: 0.25;
+      }
+      .pulse {
+        stroke: #61dafb;
+        stroke-width: 2.2;
+        fill: none;
+        stroke-dasharray: 12 300;
+        stroke-dashoffset: 0;
+        animation: flow 3.2s linear infinite;
+      }
+      .node {
+        fill: #161b22;
+        stroke: #44A833;
+        stroke-width: 2;
+      }
+      .node.active {
+        animation: glow 2.6s ease-in-out infinite;
+      }
+      @keyframes flow {
+        from { stroke-dashoffset: 300; }
+        to { stroke-dashoffset: 0; }
+      }
+      @keyframes glow {
+        0%, 100% { fill: #161b22; stroke: #44A833; }
+        50% { fill: #1f6feb; stroke: #61dafb; }
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="260" rx="18"/>
+
+  <!-- edges: input -> hidden1 -->
+  <g class="edge">
+    <line x1="90" y1="50"  x2="330" y2="50"/>
+    <line x1="90" y1="50"  x2="330" y2="130"/>
+    <line x1="90" y1="50"  x2="330" y2="210"/>
+    <line x1="90" y1="130" x2="330" y2="50"/>
+    <line x1="90" y1="130" x2="330" y2="130"/>
+    <line x1="90" y1="130" x2="330" y2="210"/>
+    <line x1="90" y1="210" x2="330" y2="50"/>
+    <line x1="90" y1="210" x2="330" y2="130"/>
+    <line x1="90" y1="210" x2="330" y2="210"/>
+  </g>
+
+  <!-- edges: hidden1 -> hidden2 -->
+  <g class="edge">
+    <line x1="330" y1="50"  x2="570" y2="90"/>
+    <line x1="330" y1="50"  x2="570" y2="170"/>
+    <line x1="330" y1="130" x2="570" y2="90"/>
+    <line x1="330" y1="130" x2="570" y2="170"/>
+    <line x1="330" y1="210" x2="570" y2="90"/>
+    <line x1="330" y1="210" x2="570" y2="170"/>
+  </g>
+
+  <!-- edges: hidden2 -> output -->
+  <g class="edge">
+    <line x1="570" y1="90"  x2="810" y2="130"/>
+    <line x1="570" y1="170" x2="810" y2="130"/>
+  </g>
+
+  <!-- animated signal pulses -->
+  <path class="pulse" d="M90,130 L330,50 L570,90 L810,130"/>
+  <path class="pulse" d="M90,50 L330,130 L570,170 L810,130" style="animation-delay:1.1s"/>
+  <path class="pulse" d="M90,210 L330,210 L570,90 L810,130" style="animation-delay:2.1s"/>
+
+  <!-- input layer -->
+  <circle class="node active" cx="90" cy="50"  r="14"/>
+  <circle class="node active" cx="90" cy="130" r="14"/>
+  <circle class="node active" cx="90" cy="210" r="14"/>
+
+  <!-- hidden layer 1 -->
+  <circle class="node active" cx="330" cy="50"  r="14" style="animation-delay:0.4s"/>
+  <circle class="node active" cx="330" cy="130" r="14" style="animation-delay:0.8s"/>
+  <circle class="node active" cx="330" cy="210" r="14" style="animation-delay:1.2s"/>
+
+  <!-- hidden layer 2 -->
+  <circle class="node active" cx="570" cy="90"  r="14" style="animation-delay:0.6s"/>
+  <circle class="node active" cx="570" cy="170" r="14" style="animation-delay:1.4s"/>
+
+  <!-- output layer -->
+  <circle class="node active" cx="810" cy="130" r="16" style="animation-delay:1.8s"/>
+
+  <text x="450" y="245" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="14">
+    input layer -&gt; hidden layers -&gt; output
+  </text>
+</svg>
