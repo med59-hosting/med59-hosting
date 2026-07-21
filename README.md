@@ -86,6 +86,10 @@ I'm a Data Scientist in training who likes making machines learn things faster t
   <img src="https://raw.githubusercontent.com/med59-hosting/med59-hosting/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=med59-hosting&theme=react-dark&hide_border=true&area=true" alt="contribution activity graph" width="100%"/>
+</p>
+
 > ⚙️ This animates your real contribution graph into a snake eating your commit squares.
 > It needs a tiny one-time GitHub Action setup — see the `snake.yml` file below and the setup notes I've included.
 
