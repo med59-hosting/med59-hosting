@@ -24,6 +24,26 @@
 
 <br/>
 
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🕵️ Deepfake Catcher
+
+A deepfake image/video detector combining **EfficientNet-B4** and **XceptionNet** in a dual-backbone architecture, trained and evaluated on **FaceForensics++**. Reaches **~92.67% accuracy** on held-out test splits, with the two backbones catching complementary artifact signatures — compression-level texture inconsistencies (Xception) and finer-grained frequency/blend artifacts (EfficientNet).
+
+`Python` `PyTorch` `EfficientNet-B4` `XceptionNet` `FaceForensics++` `Computer Vision`
+
+📌 *Repo publishing soon — documentation and write-up are ready, code push pending.*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## Languages
 
 <table>
@@ -100,6 +120,14 @@
 </table>
 
 <br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=med59-hosting&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
+
+</div>
 
 ## GitHub Stats
 
