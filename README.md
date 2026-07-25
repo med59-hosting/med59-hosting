@@ -35,6 +35,61 @@ I'm a Data Scientist in training who likes making machines learn things faster t
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ Deepfake Catcher
+
+Deepfake image/video detector combining **EfficientNet-B4** and **XceptionNet** in a dual-backbone architecture, trained and evaluated on **FaceForensics++**. Reaches **~92.67% accuracy** on held-out test splits.
+
+`Python` `PyTorch` `EfficientNet-B4` `XceptionNet`
+
+📌 *Repo publishing soon — write-up ready, code push pending.*
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Tutor Trick
+
+Full-stack tutoring platform built with **Next.js + TypeScript**, using **Prisma** for the data layer and built-in auth for user sessions. Deployed and live on Vercel.
+
+`Next.js` `TypeScript` `Prisma` `Auth`
+
+[→ Repo](https://github.com/med59-hosting/Tutor-Trick) · [→ Live App](https://tutor-trick.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 F10 Interior — Islamabad
+
+A static HTML/CSS showcase site for an interior design concept in F-10, Islamabad. Deployed on Vercel.
+
+`HTML` `CSS`
+
+[→ Repo](https://github.com/med59-hosting/Interior-f10-isb) · [→ Live App](https://interior-f10-isb.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 📧 Email Classifier
+
+ML-based email classification project — currently scaffolding the repo.
+
+`Python` `scikit-learn` *(planned)*
+
+📌 *Repo just created, code coming soon.*
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🧠 Neural Network
 
 <p align="center">
