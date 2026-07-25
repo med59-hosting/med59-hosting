@@ -1,14 +1,14 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%91%8B+Hey%2C+I'm+Ahmed" />
+
 # Ahmed Ghaffar
 
-*Data Science Undergraduate · FAST-NUCES Islamabad*
-
-Building things at the intersection of **AI/ML, automation, and data** — currently deep in audio deepfake research and QA automation for a production dashboard.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=2DD4BF&center=true&vCenter=true&width=680&height=60&lines=Data+Science+Undergraduate+%C2%B7+FAST-NUCES+Islamabad;Building+things+at+the+intersection+of+AI%2FML%2C+automation+%26+data;Currently%3A+audio+deepfake+research+%2B+QA+automation+for+FleetSnap" />
 
 <a href="mailto:ghaffarahmed603@gmail.com"><img width="40" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ahmed-ghaffar-504018271"><img width="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
-<a href="https://github.com/ahmedrana603"><img width="40" src="https://cdn.simpleicons.org/github/181717" /></a>
+<a href="https://github.com/med59-hosting"><img width="40" src="https://cdn.simpleicons.org/github/181717" /></a>
 
 </div>
 
@@ -104,12 +104,10 @@ Building things at the intersection of **AI/ML, automation, and data** — curre
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedrana603&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrana603&hide_border=true&background=0d1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=med59-hosting&show_icons=true&hide_border=true&bg_color=transparent&title_color=2DD4BF&icon_color=2DD4BF&text_color=e6edf3"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=med59-hosting&hide_border=true&background=transparent&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrana603&hide_border=true&bg_color=0d1117&color=00C9A7&line=00C9A7&point=ffffff&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=med59-hosting&hide_border=true&bg_color=transparent&color=2DD4BF&line=2DD4BF&point=ffffff&area=true&area_color=2DD4BF"/>
 </div>
-
-</markdown>
