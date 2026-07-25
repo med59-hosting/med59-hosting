@@ -1,134 +1,142 @@
-<!-- ================= TOP BANNER (custom) ================= -->
+<!-- ================= BANNER ================= -->
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Ahmed Ghaffar banner"/>
 </p>
 
-<!-- ================= TYPING ANIMATION ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44A833&center=true&vCenter=true&width=600&lines=Data+Science+Undergraduate+%40+FAST-NUCES;Machine+Learning+%26+AI+Enthusiast;Process+Automation+Builder;Turning+Data+into+Decisions" alt="Typing SVG" />
-</p>
-
-<!-- ================= PROFILE VIEWS + SOCIALS ================= -->
-<p align="center">
-  <a href="https://linkedin.com/in/ahmed-ghaffar-504018271" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ghaffarahmed603@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=med59-hosting&style=for-the-badge&color=44A833&label=PROFILE+VIEWS" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a Data Scientist in training who likes making machines learn things faster than I did.
-
-- 🧠 Currently training neural networks and myself, in that order
-- 🎓 Data Science undergrad at **FAST-NUCES**, buried in matrices and deadlines
-- ⚙️ Obsessed with **automating anything that's repeated more than twice**
-- 📈 I build models that predict things, then argue with the model when it's wrong
-- 🛠️ Comfortable stack: Python, PyTorch, scikit-learn, and a lot of coffee
-- 🚀 Currently exploring: process automation pipelines that think for themselves
-- 📫 Let's talk data: **ghaffarahmed603@gmail.com**
-
----
-
-## 🧠 Neural Network
-
-<p align="center">
-  <img src="assets/neural-network.svg" width="100%" alt="animated neural network diagram"/>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-**Languages**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=2DD4BF&center=true&vCenter=true&width=680&height=60&lines=Data+Science+Undergraduate+%C2%B7+FAST-NUCES+Islamabad;Building+things+at+the+intersection+of+AI%2FML%2C+automation+%26+data;Currently%3A+audio+deepfake+research+%2B+QA+automation+for+FleetSnap" />
 
-[![Skills](https://skillicons.dev/icons?i=cpp,py,r&theme=dark)](https://skillicons.dev)
-
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=flat-square&logo=assemblyscript&logoColor=white)
-
-**AI · ML · Data Science**
-
-[![Skills](https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark)](https://skillicons.dev)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-
-**Web · Backend**
-
-[![Skills](https://skillicons.dev/icons?i=fastapi,flask,sass&theme=dark)](https://skillicons.dev)
-
-**Design Tools**
-
-[![Skills](https://skillicons.dev/icons?i=ae,ai,figma&theme=dark)](https://skillicons.dev)
-
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
-
-**Dev Tools**
-
-[![Skills](https://skillicons.dev/icons?i=git,github,postman,twilio&theme=dark)](https://skillicons.dev)
-
-![Trello](https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white)
+<a href="mailto:ghaffarahmed603@gmail.com"><img width="40" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ahmed-ghaffar-504018271"><img width="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
+<a href="https://github.com/med59-hosting"><img width="40" src="https://cdn.simpleicons.org/github/181717" /></a>
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Activity
+## About
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/med59-hosting/med59-hosting/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+- 🎓 Final-year Data Science student at FAST-NUCES, Islamabad
+- 🔎 Researching open-set audio deepfake source-tracing (EfficientNet-B4 + XceptionNet)
+- ⚙️ QA & automation work on a Turo fleet-management dashboard
+- 📊 Turning messy data into models, dashboards, and decisions
+- ⚡ Automate anything I have to do more than twice
 
-> ⚙️ This animates your real contribution graph into a snake eating your commit squares.
-> It needs a tiny one-time GitHub Action setup — see the `snake.yml` file below and the setup notes I've included.
+<br/>
 
----
+## 🚀 Featured Project
 
-## 📊 GitHub Stats
+<table>
+<tr>
+<td width="100%" valign="top">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=med59-hosting&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=med59-hosting&layout=compact&theme=radical&hide_border=true"/>
-</p>
+### 🕵️ Deepfake Catcher
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=med59-hosting&theme=radical&hide_border=true" />
-</p>
+A deepfake image/video detector combining **EfficientNet-B4** and **XceptionNet** in a dual-backbone architecture, trained and evaluated on **FaceForensics++**. Reaches **~92.67% accuracy** on held-out test splits, with the two backbones catching complementary artifact signatures — compression-level texture inconsistencies (Xception) and finer-grained frequency/blend artifacts (EfficientNet).
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=med59-hosting&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+`Python` `PyTorch` `EfficientNet-B4` `XceptionNet` `FaceForensics++` `Computer Vision`
 
----
+📌 *Repo publishing soon — documentation and write-up are ready, code push pending.*
 
-## 🏆 Top Contributed Repo
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=med59-hosting&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
+<br/>
 
----
+## Languages
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<table>
+<tr>
+<td align="center" width="90"><a href="https://www.python.org"><img width="48" height="48" src="https://cdn.simpleicons.org/python/3776AB"/></a><br/><sub><b>Python</b></sub></td>
+<td align="center" width="90"><a href="https://www.r-project.org"><img width="48" height="48" src="https://cdn.simpleicons.org/r/276DC3"/></a><br/><sub><b>R</b></sub></td>
+<td align="center" width="90"><a href="https://isocpp.org"><img width="48" height="48" src="https://cdn.simpleicons.org/cplusplus/00599C"/></a><br/><sub><b>C++</b></sub></td>
+</tr>
+</table>
 
----
+## AI / ML & Deep Learning
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:44A833,100:0077B5&height=120&section=footer"/>
-</p>
+<table>
+<tr>
+<td align="center" width="90"><a href="https://pytorch.org"><img width="48" height="48" src="https://cdn.simpleicons.org/pytorch/EE4C2C"/></a><br/><sub><b>PyTorch</b></sub></td>
+<td align="center" width="90"><a href="https://scikit-learn.org"><img width="48" height="48" src="https://cdn.simpleicons.org/scikitlearn/F7931E"/></a><br/><sub><b>scikit-learn</b></sub></td>
+<td align="center" width="90"><a href="https://numpy.org"><img width="48" height="48" src="https://cdn.simpleicons.org/numpy/013243"/></a><br/><sub><b>NumPy</b></sub></td>
+<td align="center" width="90"><a href="https://pandas.pydata.org"><img width="48" height="48" src="https://cdn.simpleicons.org/pandas/150458"/></a><br/><sub><b>Pandas</b></sub></td>
+<td align="center" width="90"><a href="https://scipy.org"><img width="48" height="48" src="https://cdn.simpleicons.org/scipy/8CAAE6"/></a><br/><sub><b>SciPy</b></sub></td>
+</tr>
+</table>
 
-<!-- Proudly built with animated badges, Vercel-hosted stat APIs, and a GitHub Actions snake 🐍 -->
+## Data Analytics & Visualization
+
+<table>
+<tr>
+<td align="center" width="90"><a href="https://www.tableau.com"><img width="48" height="48" src="https://cdn.simpleicons.org/tableau/E97627"/></a><br/><sub><b>Tableau</b></sub></td>
+<td align="center" width="90"><a href="https://powerbi.microsoft.com"><img width="48" height="48" src="https://cdn.simpleicons.org/powerbi/F2C811"/></a><br/><sub><b>Power BI</b></sub></td>
+<td align="center" width="90"><a href="https://matplotlib.org"><img width="48" height="48" src="https://cdn.simpleicons.org/matplotlib/11557C"/></a><br/><sub><b>Matplotlib</b></sub></td>
+<td align="center" width="90"><a href="https://plotly.com"><img width="48" height="48" src="https://cdn.simpleicons.org/plotly/3F4F75"/></a><br/><sub><b>Plotly</b></sub></td>
+</tr>
+</table>
+
+## Automation & Workflow
+
+<table>
+<tr>
+<td align="center" width="90"><a href="https://asana.com"><img width="48" height="48" src="https://cdn.simpleicons.org/asana/F06A6A"/></a><br/><sub><b>Asana</b></sub></td>
+<td align="center" width="90"><a href="https://trello.com"><img width="48" height="48" src="https://cdn.simpleicons.org/trello/0052CC"/></a><br/><sub><b>Trello</b></sub></td>
+<td align="center" width="90"><a href="https://www.postman.com"><img width="48" height="48" src="https://cdn.simpleicons.org/postman/FF6C37"/></a><br/><sub><b>Postman</b></sub></td>
+<td align="center" width="90"><a href="https://www.twilio.com"><img width="48" height="48" src="https://cdn.simpleicons.org/twilio/F22F46"/></a><br/><sub><b>Twilio</b></sub></td>
+</tr>
+</table>
+
+## Frameworks & Backend
+
+<table>
+<tr>
+<td align="center" width="90"><a href="https://fastapi.tiangolo.com"><img width="48" height="48" src="https://cdn.simpleicons.org/fastapi/009688"/></a><br/><sub><b>FastAPI</b></sub></td>
+<td align="center" width="90"><a href="https://flask.palletsprojects.com"><img width="48" height="48" src="https://cdn.simpleicons.org/flask/000000"/></a><br/><sub><b>Flask</b></sub></td>
+</tr>
+</table>
+
+## Design & Creative
+
+<table>
+<tr>
+<td align="center" width="90"><a href="https://figma.com"><img width="48" height="48" src="https://cdn.simpleicons.org/figma/F24E1E"/></a><br/><sub><b>Figma</b></sub></td>
+<td align="center" width="90"><a href="https://www.adobe.com/products/illustrator.html"><img width="48" height="48" src="https://cdn.simpleicons.org/adobeillustrator/FF9A00"/></a><br/><sub><b>Illustrator</b></sub></td>
+<td align="center" width="90"><a href="https://www.adobe.com/products/aftereffects.html"><img width="48" height="48" src="https://cdn.simpleicons.org/adobeaftereffects/9999FF"/></a><br/><sub><b>After Effects</b></sub></td>
+<td align="center" width="90"><a href="https://www.adobe.com/products/photoshop-lightroom.html"><img width="48" height="48" src="https://cdn.simpleicons.org/adobelightroom/31A8FF"/></a><br/><sub><b>Lightroom</b></sub></td>
+<td align="center" width="90"><a href="https://sass-lang.com"><img width="48" height="48" src="https://cdn.simpleicons.org/sass/CC6699"/></a><br/><sub><b>Sass</b></sub></td>
+</tr>
+</table>
+
+## Dev Tools
+
+<table>
+<tr>
+<td align="center" width="90"><a href="https://git-scm.com"><img width="48" height="48" src="https://cdn.simpleicons.org/git/F05032"/></a><br/><sub><b>Git</b></sub></td>
+<td align="center" width="90"><a href="https://github.com"><img width="48" height="48" src="https://cdn.simpleicons.org/github/181717"/></a><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="90"><a href="https://www.anaconda.com"><img width="48" height="48" src="https://cdn.simpleicons.org/anaconda/44A833"/></a><br/><sub><b>Anaconda</b></sub></td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=med59-hosting&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
+
+</div>
+
+## GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=med59-hosting&show_icons=true&hide_border=true&bg_color=transparent&title_color=2DD4BF&icon_color=2DD4BF&text_color=e6edf3"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=med59-hosting&hide_border=true&background=transparent&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=med59-hosting&hide_border=true&bg_color=transparent&color=2DD4BF&line=2DD4BF&point=ffffff&area=true&area_color=2DD4BF"/>
+</div>
