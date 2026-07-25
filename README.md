@@ -165,6 +165,18 @@ ML-based email classification project — currently scaffolding the repo.
   <img src="https://github-profile-trophy.vercel.app/?username=med59-hosting&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=med59-hosting&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=med59-hosting&theme=radical" height="170" alt="Top Languages by Repo" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=med59-hosting&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 🏆 Top Contributed Repo
